@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { ReactiveBase } from 'app@baseio/reactivesearch';
-import { defaultCipherList } from 'constants';
 
 class App extends Component {
   render() {
